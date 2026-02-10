@@ -60,7 +60,7 @@ src/
 This project is completed as part of the Syntecxhub Web Development Internship Program.
 
 **GitHub Repository**: Syntecxhub_Expense_Tracker
-**Intern**: [Your Name]
+**Intern**: Pooja1517
 **Week**: 1
 
 ## License
